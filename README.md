@@ -62,7 +62,7 @@ A full-stack, responsive web application engineered for college campuses to enab
 ## Project Structure
 
 ```text
-campus-lost-and-found/
+25070521309-CA-03/
 ├── .gitignore                # Excludes node_modules, build outputs, and local files
 ├── package.json              # Root scripts: install:all, dev, seed
 ├── README.md                 # Complete documentation and setup guide
